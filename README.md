@@ -1,4 +1,4 @@
-# 🚀 CodeAlpha Data Analytics Internship Projects
+#  CodeAlpha Data Analytics Internship Projects
 
 Welcome to my GitHub repository for the **CodeAlpha Data Analytics Internship**.
 
@@ -6,13 +6,13 @@ This repository contains the projects I completed during the internship, demonst
 
 ---
 
-## 📂 Projects
+##  Projects
 
-### 📊 Task 1 – Employee Attrition Data Visualization
+###  Task 1 – Employee Attrition Data Visualization
 
 This project analyzes employee attrition using Python and presents key insights through visualizations and an interactive HR Analytics Dashboard.
 
-📁 Folder: `Task_1_Data_Visualization`
+ Folder: `Task_1_Data_Visualization`
 
 **Technologies Used**
 - Python
@@ -23,11 +23,11 @@ This project analyzes employee attrition using Python and presents key insights 
 
 ---
 
-### 🚀 Task 2 – Space Missions Exploratory Data Analysis
+###  Task 2 – Space Missions Exploratory Data Analysis
 
 This project explores historical space mission data using Exploratory Data Analysis (EDA) techniques to discover meaningful insights and trends.
 
-📁 Folder: `Task_2_Exploratory_Data_Analysis`
+Folder: `Task_2_Exploratory_Data_Analysis`
 
 **Technologies Used**
 - Python
@@ -39,7 +39,7 @@ This project explores historical space mission data using Exploratory Data Analy
 
 ---
 
-## 🛠 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning
 - Data Preprocessing
@@ -51,7 +51,7 @@ This project explores historical space mission data using Exploratory Data Analy
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Muhammad Usman Ghani**
 
